@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Prakhar Verma.</h1>
 <h3 align="center">A CS student at Purdue University, USA.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif”>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif" >
 
 <p align="left"> <a href="https://twitter.com/iprakharv" target="blank"><img src="https://img.shields.io/twitter/follow/iprakharv?logo=twitter&style=for-the-badge" alt="iprakharv" /></a> </p>
 
