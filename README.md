@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-<h1 align="center">Hi 👋, I'm Prakhar Verma.</h1>
+<h1 align="center">Hi 👋, I'm Prakhar Verma!</h1>
 <h3 align="center">A CS student at Purdue University, USA.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif" >
 
