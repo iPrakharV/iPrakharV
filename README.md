@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Java & Arduino programming.**
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **HTML.**
 
 - 🤝 I’m looking for help with **learning Android development.**
 
-- 💬 Ask me about **Arduino.**
+- 💬 Ask me about **Java.**
 
 - 📫 How to reach me **iprakharv@gmail.com**
 
