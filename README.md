@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Arduino.**
 
-- 📫 How to reach me **iprakharv@gmail.com**
+- 📫 How to reach me **connect@iprakharv.com**
 
 - ⚡ Fun fact **I reply to my Instagram pretty quick!**
 
