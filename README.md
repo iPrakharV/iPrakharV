@@ -1,4 +1,4 @@
-#  Hello this is iPrakharV:
+#  Hi, this is iPrakharV
 🔭 I’m currently working on Flutter web integration.<br>
 💬 Ask me about Java, Flutter, and Python.<br>
 🤖 Ask me about Hardware Robotics, artificial intelligence & app development.<br>
