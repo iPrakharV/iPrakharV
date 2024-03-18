@@ -1,9 +1,11 @@
 #  Hi, this is iPrakharV
-🔭 **I’m currently working on:**  <br> Flutter web integration.<br>
-💬 Ask me about Java, Flutter, and Python.<br>
-🤖 Ask me about Hardware Robotics, artificial intelligence & app development.<br>
-🎮 Fun fact - I'd love to play Call of Duty with you!<br>
-🎧 I post content of socials & make music - look me up by searching "iPrakharV"<br>
+🔭 **I’m currently working on:**  <br> Flutter web integration.<br><br>
+💬 **Mainly working on**<br> Java, Flutter, and Python.<br><br>
+🤖 **Ask me about**<br> Hardware Robotics, artificial intelligence & app development.<br><br>
+🎮 **Fun fact-** I'd love to play Call of Duty with you!<br><br>
+🎧 **I post content on** socials & make music - look me up by searching "iPrakharV"<br><br>
+
+🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
 ## 🌐 Socials:
