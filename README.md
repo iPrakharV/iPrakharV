@@ -5,7 +5,7 @@
 🎮 **Fun fact:** <br>I'd love to play Call of Duty with you!<br><br>
 🎧 **I post content on:**<br> socials & make music - look me up by searching "iPrakharV."<br><br>
 
-### 💰 You can help me by Donating
+### 💰 Support Appreciated:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iprakharv) 
 
 
