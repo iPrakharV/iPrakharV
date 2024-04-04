@@ -5,9 +5,9 @@
 🎮 **Fun fact:** <br>I'd love to play Call of Duty with you!<br><br>
 🎧 **I post content on:**<br> socials & make music - look me up by searching "iPrakharV."<br><br>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=abhisaranand&icon=0&color=1)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/8335e9d0-fb06-4ddf-b003-1053a34181a6.svg)](https://wakatime.com/@8335e9d0-fb06-4ddf-b003-1053a34181a6)<br/> -->
+[![](https://visitcount.itsvg.in/api?id=iprakharv&icon=0&color=1)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/018d9a71-98de-42e5-88e5-a6de48bc3060.svg)](https://wakatime.com/@018d9a71-98de-42e5-88e5-a6de48bc3060)<br/>
 
-[![wakatime](https://wakatime.com/badge/user/018d9a71-98de-42e5-88e5-a6de48bc3060.svg)](https://wakatime.com/@018d9a71-98de-42e5-88e5-a6de48bc3060)
+<!-- [![wakatime](https://wakatime.com/badge/user/018d9a71-98de-42e5-88e5-a6de48bc3060.svg)](https://wakatime.com/@018d9a71-98de-42e5-88e5-a6de48bc3060) -->
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/iprakharv) 
