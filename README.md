@@ -1,5 +1,5 @@
 #  Hi, this is iPrakharV
-🔭 **I’m currently working on:**  <br> Flutter web integration.<br><br>
+🔭 **I’m currently working on:**  Flutter web integration.<br><br>
 💬 **Mainly working on:**<br> Java, Flutter, and Python.<br><br>
 🤖 **Ask me about:**<br> Hardware Robotics, artificial intelligence & app development.<br><br>
 🎮 **Fun fact:** <br>I'd love to play Call of Duty with you!<br><br>
