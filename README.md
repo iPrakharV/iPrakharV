@@ -1,9 +1,9 @@
 #  Hi, this is iPrakharV
 🔭 **I’m currently working on:**  Flutter web integration.<br><br>
-💬 **Mainly working on:**<br> Java, Flutter, and Python.<br><br>
-🤖 **Ask me about:**<br> Hardware Robotics, artificial intelligence & app development.<br><br>
-🎮 **Fun fact:** <br>I'd love to play Call of Duty with you!<br><br>
-🎧 **I post content on:**<br> socials & make music - look me up by searching "iPrakharV."<br><br>
+💬 **Mainly working on:** Java, Flutter, and Python.<br><br>
+🤖 **Ask me about:** Hardware Robotics, artificial intelligence & app development.<br><br>
+🎮 **Fun fact:** I'd love to play Call of Duty with you!<br><br>
+🎧 **I post content on:** socials & make music - look me up by searching "iPrakharV."<br><br>
 
  [![wakatime](https://wakatime.com/badge/user/018d9a71-98de-42e5-88e5-a6de48bc3060.svg)](https://wakatime.com/@018d9a71-98de-42e5-88e5-a6de48bc3060)<br/>
 
