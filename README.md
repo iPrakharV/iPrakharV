@@ -83,6 +83,7 @@
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/in/macos/sonoma/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
+![](https://github-contributor-stats.vercel.app/api?username=iprakharv&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 
