@@ -17,7 +17,7 @@
 ### 💰 Support Appreciated:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iprakharv) 
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 ### Front-End
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
