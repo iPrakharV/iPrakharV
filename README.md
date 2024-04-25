@@ -87,7 +87,6 @@
 
 
 ## 📊 GitHub Stats:
-
 [![reimaginedreadme](https://myreadme.vercel.app/api/embed/iprakharv?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
 
 
