@@ -87,7 +87,13 @@
 
 
 ## 📊 GitHub Stats:
-[![reimaginedreadme](https://myreadme.vercel.app/api/embed/iprakharv?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
+</div>
+<br/>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iPrakharV&theme=monokai">
+  </a>
+</p>
 
 
 
