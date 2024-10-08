@@ -17,6 +17,11 @@
 ### 💰 Support Appreciated:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iprakharv) 
 
+## 📊 GitHub Stats:
+<p align="center">
+      <img width="490" height="190" src="https://github-readme-stats.vercel.app/api?username=iPrakharV&show_icons=true&theme=monokai">
+</p>  
+
 ## 💻 Tech Stack:
 
 ### Front-End:
@@ -86,7 +91,7 @@
 
 
 
-## 📊 GitHub Stats:
+
 </div>
 <br/>
 <p align="center">
