@@ -6,7 +6,7 @@
   <a href="https://iprakharv.com">website</a> ·
   <a href="https://www.linkedin.com/in/iprakharv/">linkedin</a> ·
   <a href="https://iprakharv.com/resume.pdf">resume</a> ·
-  <a href="mailto:connect@iprakharv.com">email</a>
+  <a href="mailto:iprakharv@gmail.com">email</a>
 </samp>
 
 <br/>
