@@ -22,15 +22,11 @@
 
 | build | work | focus |
 |:--:|:--:|:--:|
-| <sub>full-stack&nbsp;apps&nbsp;·&nbsp;ML&nbsp;demos&nbsp;·&nbsp;hardware&nbsp;systems</sub> | <sub>Medical&nbsp;Informatics&nbsp;Engineering&nbsp;·&nbsp;GDG&nbsp;·&nbsp;CodeDay</sub> | <sub>healthcare&nbsp;tech&nbsp;·&nbsp;developer&nbsp;tools&nbsp;·&nbsp;embedded&nbsp;AI</sub> |
+| <sub>full-stack&nbsp;apps&nbsp;·&nbsp;ML&nbsp;demos&nbsp;·&nbsp;hardware&nbsp;systems</sub> | <sub>GDG&nbsp;·&nbsp;CodeDay&nbsp;·&nbsp;GitHub&nbsp;Campus&nbsp;Expert</sub> | <sub>healthcare&nbsp;tech&nbsp;·&nbsp;developer&nbsp;tools&nbsp;·&nbsp;embedded&nbsp;AI</sub> |
 
 ## Currently
 
 <table>
-  <tr>
-    <td><strong>Software Developer Intern</strong></td>
-    <td>Medical Informatics Engineering</td>
-  </tr>
   <tr>
     <td><strong>Campus Organizer</strong></td>
     <td>Google Developer Groups @ Purdue University</td>
@@ -39,7 +35,13 @@
     <td><strong>Core Team Lead</strong></td>
     <td>CodeDay Lucknow</td>
   </tr>
+  <tr>
+    <td><strong>Campus Expert</strong></td>
+    <td>GitHub Campus Experts</td>
+  </tr>
 </table>
+
+<sub>Previously: Software Developer Intern @ Medical Informatics Engineering</sub>
 
 ## Featured Work
 
