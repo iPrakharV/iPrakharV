@@ -20,7 +20,7 @@
 
 ---
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" align="center">
       <strong>build</strong><br/>
@@ -28,7 +28,7 @@
     </td>
     <td width="33%" align="center">
       <strong>work</strong><br/>
-      <sub>Medical Informatics Engineering · GDG · CodeDay</sub>
+      <sub>MIE · GDG · CodeDay</sub>
     </td>
     <td width="33%" align="center">
       <strong>focus</strong><br/>
