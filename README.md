@@ -12,30 +12,17 @@
 <br/>
 <br/>
 
-<strong>Computer Science Honors @ Purdue University</strong>
-<br/>
-<sub>software engineering · machine learning · hardware systems</sub>
+### Computer Science Honors @ Purdue University
+
+<samp>software engineering · machine learning · hardware systems</samp>
 
 </div>
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <strong>build</strong><br/>
-      <sub>full-stack apps, ML demos, hardware systems</sub>
-    </td>
-    <td width="33%" align="center">
-      <strong>work</strong><br/>
-      <sub>MIE · GDG · CodeDay</sub>
-    </td>
-    <td width="33%" align="center">
-      <strong>focus</strong><br/>
-      <sub>healthcare tech, developer tools, embedded AI</sub>
-    </td>
-  </tr>
-</table>
+| build | work | focus |
+|:--:|:--:|:--:|
+| <sub>full-stack&nbsp;apps&nbsp;·&nbsp;ML&nbsp;demos&nbsp;·&nbsp;hardware&nbsp;systems</sub> | <sub>Medical&nbsp;Informatics&nbsp;Engineering&nbsp;·&nbsp;GDG&nbsp;·&nbsp;CodeDay</sub> | <sub>healthcare&nbsp;tech&nbsp;·&nbsp;developer&nbsp;tools&nbsp;·&nbsp;embedded&nbsp;AI</sub> |
 
 ## Currently
 
